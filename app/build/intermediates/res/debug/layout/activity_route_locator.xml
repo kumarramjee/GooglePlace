@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   
+    tools:context="com.mobimedia.place.RouteLocator" >
+    
+     
+    <EditText 
+        android:id="@+id/entertexttosearch"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:hint="Search"
+        android:layout_toLeftOf="@+id/searchlocation"
+        android:layout_alignParentLeft="true"
+        android:singleLine="true"
+        android:autoText="true"
+        android:inputType="textAutoComplete|textAutoCorrect"
+       />
+
+    <ImageView
+        android:id="@+id/searchlocation"
+        android:layout_width="40dp"
+        android:layout_height="45dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="0dp"
+        android:src="@drawable/search"
+       
+         />
+    
+    
+    
+    
+ <fragment
+        android:id="@+id/map1"
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/entertexttosearch"
+        android:layout_height="wrap_content"
+       
+         />
+</RelativeLayout>
+<!-- From: file:/home/ram/Downloads/GooglePlace/app/src/main/res/layout/activity_route_locator.xml -->

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-50af0a5d1450ffc8bbaab8b64c48fd154642304e.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-ee946e903f1fa221dc8c131834765d9b0d92c9c1.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-b3bddcbd8e694370238bfc122324e0bdbb7fc4fd.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-9f7b5d6b3da0f0d20e4f53ee0d4c09e49fd5e05c.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-338d626ef32602de2645d21f5939a0d00227e1e9.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-01ddbc159e0a8fc91c852183d913b8f63dfd47a0.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-f35ea104339857ead26f39ef7ed9a1843ad28de8.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-2c99c17a5fc532754c1ea39a1c7f9c14da6ff8f4.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-3ad96f82ea981570b3ed779f96625f92bfec1702.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-e7ed98a7672bb2a00a3355920fcb80ca1d697be8.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-ea9039bb1685b4ebf2b824884c32aae28ecf7cf7.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-29ee0eccb7a43cb1f832d038a3adf59be366db9c.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-e9bd880566027fe571862dcb2d44aaee8438087c.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-c86719a73591a13106235f7b9164f9d20538b95b.jar" />
+    </item>
+    <item
+        jar="/home/ram/Desktop/Eclipse/adt-bundle-linux-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-f58047e797fc6d1f990834e1795e3c7e6b96ef34.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-d98d3f40ff0c8f73673ad816360a87f135dbd2a2.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-a6aac2875d085a50ab841d28cff9009e68787b9d.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-48c9c4371f89f77fb460f4fd80784ea30b84b5c2.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-b07ac99412fea7ab1a53ae499ba7519009326325.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-f3bbfcbba439388168553ec271dbf40056c39fec.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-de284a774615b66d3d005fb402eac9ea9b0cd414.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-3ef8f4aa63e0559618b9197266cfd1af278ef20c.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-7aa1045dca7e1baab705549b9cdd56c11983fcf2.jar" />
+    </item>
+    <item
+        jar="/home/ram/Downloads/GooglePlace/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/home/ram/Downloads/GooglePlace/app/build/intermediates/pre-dexed/debug/classes-38803f10c7e362e59b7e4f8a37e2baa5b5475abb.jar" />
+    </item>
+
+</items>

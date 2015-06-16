@@ -1,0 +1,55 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#63B8FF"
+   tools:context="com.mobimedia.place.ui.MainActivity" >
+   <TextView
+       android:id="@+id/countryname2"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_centerHorizontal="true"
+       android:layout_marginTop="30dp"
+       android:gravity="center"
+       android:text="@string/countryname"
+       android:textColor="#DF013A"
+       android:textSize="40sp"
+       android:layout_marginBottom="20dp"
+       android:textStyle="normal|bold"
+       android:layout_above="@+id/spinner" />
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:background="#D3D3D3"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:dropDownWidth="match_parent" 
+         android:layout_centerHorizontal="true"
+         android:layout_centerVertical="true"
+        android:prompt="@string/spinner_title" 
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:popupBackground="#D3D3D3"
+        android:textDirection="firstStrong"
+          android:drawSelectorOnTop="true"
+          android:spinnerMode="dialog"
+        />
+ <TextView 
+        android:id="@+id/entername"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Enter"
+         android:textStyle="bold"
+          android:textColor="#DF013A"
+        android:textSize="25sp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="50dp"
+        android:background="#d3d3d3"
+        android:layout_marginRight="50dp"
+        android:layout_below="@+id/spinner"
+       android:layout_centerHorizontal="true"
+        android:gravity="center"
+      
+        />
+</RelativeLayout>
+<!-- From: file:/home/ram/Downloads/GooglePlace/app/src/main/res/layout/activity_main.xml -->

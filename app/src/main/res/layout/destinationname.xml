@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#D3D3D3"
+    >
+     
+    <CheckBox 
+        android:id="@+id/checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        
+        />
+    <EditText 
+        android:id="@+id/source"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:textSize="25sp"
+       android:layout_toRightOf="@+id/checkbox"
+         android:gravity="center"
+         android:hint="Your Location"
+         android:singleLine="true"
+         android:maxLines="1"
+        />
+    
+    
+    <EditText 
+        android:id="@+id/enterdestination"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="normal"
+        android:layout_below="@+id/source"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:maxLines="1"
+        android:singleLine="true"
+        
+        android:hint="Destination"
+        
+        
+        />
+    <TextView 
+        android:id="@+id/getdirection"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GetDirection"
+        android:layout_below="@+id/enterdestination"
+          android:textSize="30sp"
+       android:layout_centerHorizontal="true"
+       android:textStyle="bold"
+        android:gravity="center"
+        />
+    
+    
+</RelativeLayout>

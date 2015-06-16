@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="#D3D3D3">
+    
+<TextView 
+    android:id="@+id/hotel"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Hotel"
+    android:textSize="30sp"
+    android:layout_gravity="center_horizontal"
+    android:layout_weight="1"
+    android:onClick="onClickonDialog"
+    />
+<TextView 
+    android:id="@+id/hospital"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Hospital"
+    android:layout_weight="1"
+    android:textSize="30sp"
+    android:layout_gravity="center_horizontal"
+ 
+    />
+
+<TextView 
+    android:id="@+id/college"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="College"
+    android:layout_weight="1"
+    android:textSize="30sp"
+ android:layout_gravity="center_horizontal"
+    />
+<TextView 
+    android:id="@+id/airport"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Airport"
+    android:layout_weight="1"
+    android:textSize="30sp"
+ android:layout_gravity="center_horizontal"
+    />
+
+<TextView 
+    android:id="@+id/railwaystation"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="RailwayStation"
+    android:layout_weight="1"
+    android:textSize="30sp"
+ android:layout_gravity="center_horizontal"
+    />
+
+<TextView 
+    android:id="@+id/beach"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Beach"
+    android:layout_weight="1"
+    android:textSize="30sp"
+ android:layout_gravity="center_horizontal"
+    />
+</LinearLayout>
+<!-- From: file:/home/ram/Downloads/GooglePlace/app/src/main/res/layout/placename.xml -->
