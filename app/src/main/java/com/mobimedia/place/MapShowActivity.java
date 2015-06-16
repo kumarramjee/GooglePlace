@@ -350,7 +350,13 @@ public class MapShowActivity extends ActionBarActivity implements
 
 	@Override
 	public void onClick(View v) {
-		StartGPS();
+		switch (v.getId()) {
+			case R.id.currentlocationicon:
+			StartGPS();
+				break;
+			default:
+				break;
+		}
 	}
 
 	/*----------Method to Check GPS is enable or disable ------------- */
